@@ -1,10 +1,10 @@
 # Car-insurance-fraud-detection-using-machine-learning
 
-##Overview
+Overview
 <br>
 This project focuses on detecting fraudulent claims in car insurance using machine learning techniques. Insurance fraud is a critical issue that affects the industry by increasing operational costs and premiums. By leveraging predictive analytics, this project aims to identify potential fraud and mitigate risks effectively.
 
-#Features
+Features
 <br>
 Data Preprocessing: Cleaned and prepared the dataset for analysis, including handling missing values, outlier detection, and feature engineering.
 Exploratory Data Analysis (EDA): Visualized claim patterns, fraud distribution, and key insights to understand the data.
